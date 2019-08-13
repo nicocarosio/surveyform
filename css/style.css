@@ -1,0 +1,39 @@
+html,
+body {
+  background-color: #82a7a3 ;
+  text-align: center;
+  min-width: 320px;
+}
+
+header {
+  margin: 20px;
+}
+main{
+    background-color: #a9d7d1;
+}
+
+
+h1{
+    font-size: 10vmin;
+    }
+    
+    h2{
+        font-size: 5vmin;
+        }
+    
+    h3{
+        font-size: 4vmin;
+        }
+    
+    
+    p{
+        font-size: 3vmin;
+    }
+    li{
+        font-size: 3vmin;
+    }
+    img{
+        max-width: 100%;
+        display: block;
+        height: auto;
+    }
